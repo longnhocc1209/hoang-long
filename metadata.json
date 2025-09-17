@@ -1,0 +1,5 @@
+{
+  "name": "Trình Chỉnh Sửa Ảnh AI",
+  "description": "Một ứng dụng web cho phép người dùng chỉnh sửa quần áo, tóc và bối cảnh của ảnh bằng mô hình Gemini (nano-banana). Tải ảnh lên, nhập mô tả thay đổi bạn muốn và để AI thực hiện điều kỳ diệu.",
+  "requestFramePermissions": []
+}
